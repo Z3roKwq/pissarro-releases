@@ -1,4 +1,4 @@
-# Custom ROM Installation Guide for Redmi Note 11 Pro / Pro+ / 11i (pissarro)
+# Flash Guide for Redmi Note 11 Pro+ 5G (pissarro)
 
 ## Prerequisites
 
@@ -46,10 +46,14 @@ After the sideload completes, the recovery will prompt you to reboot. Select Yes
 
 Once the device reboots into recovery again: Select Factory Reset -> Choose Format Data    
 
-### 6. Final Reboot
+### 6 Flash GApps (optionally)
 
-After formatting, return to the main recovery menu and select Reboot system now.
+After formatting, you can flash GApps if you wish.
 
-### 7. Done
+### 7. Final Reboot
+
+After formatting or flashing GApps, return to the main recovery menu and select Reboot to system.
+
+### 8. Done
 
 Your device will now boot into system. The first boot may take several minutes.
